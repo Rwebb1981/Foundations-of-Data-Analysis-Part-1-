@@ -4,4 +4,6 @@ This introductory course explains how to perform basic descriptive analysis in R
 
 Week 1 - Introduction to Data (How to index, create objects and variables and how to perform basic counts).
 
-Week 2 - Univariate Data Analysis
+Week 2 - Univariate Data Analysis (How to create basic bar plots and histograms, how to calculate averages, measures of spread and a five number summary, how to pull out specific data and variables and how to calculate z-scores). 
+
+Week 3 - 
