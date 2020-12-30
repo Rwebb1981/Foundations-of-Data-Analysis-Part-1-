@@ -10,4 +10,6 @@ Week 3 - Bivariate Distributions (Code to produce a scatterplot of two variables
 
 Week 4 - Bivariate Distributions - Categorical Variables (Code to create contingency tables, proportion tables and tables of marginal distribution, as well as how to create stacked bar charts and mosaic plots. Also, code to determine probabilities of events occuring given the tables previously created). 
 
-Week 5 - Linear Functions (XXXX). 
+Week 5 - Linear Functions (Code to run linear regression analysis and how to change markers on scatterplots).
+
+Week 6 - Exponential and Logistic Functions (Code to pull out data, start a time series at zero, create a scatterplot showing change over time. Also, code to fit linear, exponential and logistical models to data and code to predict forecasted values after a designated period of time). 
