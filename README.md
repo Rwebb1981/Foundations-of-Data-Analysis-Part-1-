@@ -8,4 +8,6 @@ Week 2 - Univariate Data Analysis (How to create basic bar plots and histograms,
 
 Week 3 - Bivariate Distributions (Code to produce a scatterplot of two variables and to add a line of best fit. Also, code to calculate the correlation between two variables and code to create a correlation matrix between three variables).
 
-Week 4 - Bivariate Distributions - Categorical Variables (XXXX)
+Week 4 - Bivariate Distributions - Categorical Variables (Code to create contingency tables, proportion tables and tables of marginal distribution, as well as how to create stacked bar charts and mosaic plots. Also, code to determine probabilities of events occuring given the tables previously created). 
+
+Week 5 - Linear Functions (XXXX). 
